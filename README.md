@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Profile views counter with purple theme -->
-  <img src="https://komarev.com/ghpvc/?username=hotianbexuanto&color=B186D6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=aqnya&color=B186D6&style=for-the-badge" alt="Profile Views" />
   
   <!-- AI-themed separator -->
   <div style="margin: 20px 0;">
