@@ -8,16 +8,16 @@
   </div>
 
   <!-- GitHub Stats with purple theme -->
-  <a href="https://github.com/hotianbexuanto">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hotianbexuanto&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&bg_color=0D1117&border_color=B186D6&icon_color=B186D6&title_color=B186D6" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hotianbexuanto&layout=compact&langs_count=7&theme=midnight-purple&bg_color=0D1117&border_color=B186D6&title_color=B186D6" alt="Most Used Languages" />
+  <a href="https://github.com/aqnya">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aqnya&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&bg_color=0D1117&border_color=B186D6&icon_color=B186D6&title_color=B186D6" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqnya&layout=compact&langs_count=7&theme=midnight-purple&bg_color=0D1117&border_color=B186D6&title_color=B186D6" alt="Most Used Languages" />
   </a>
 
   <!-- GitHub streak stats with purple theme -->
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=hotianbexuanto&theme=midnight-purple&background=0D1117&stroke=B186D6&ring=B186D6&fire=B186D6&currStreakLabel=B186D6&border=B186D6" alt="GitHub Streak Stats" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=aqnya&theme=midnight-purple&background=0D1117&stroke=B186D6&ring=B186D6&fire=B186D6&currStreakLabel=B186D6&border=B186D6" alt="GitHub Streak Stats" />
 
   <!-- AI-themed contribution graph -->
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=hotianbexuanto&bg_color=0D1117&color=B186D6&line=B186D6&point=FFFFFF&area=true&area_color=B186D6&hide_border=true" alt="Contribution Graph" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=aqnya&bg_color=0D1117&color=B186D6&line=B186D6&point=FFFFFF&area=true&area_color=B186D6&hide_border=true" alt="Contribution Graph" />
 
   <!-- AI-themed separator -->
   <div style="margin: 20px 0;">
