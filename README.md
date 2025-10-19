@@ -13,7 +13,7 @@
 ## About Me
 - 🔭 I’m currently working on Android kernel.
 - 🌱 I’m currently learning c lang
-- 📫 How to reach me: aqnya(https://t.me/acutenyaa)
+- 📫 How to reach me: ［aqnya］(https://t.me/acutenyaa)
 - 😄 Pronouns: zako\~zako\~
 - ⚡ Fun fact: えへへ、私はバカだね～
 
