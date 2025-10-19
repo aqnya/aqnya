@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning c lang
 - 📫 How to reach me: siyueba73@gmail.com
 - 😄 Pronouns: zako\~zako\~
-- ⚡ Fun fact: 私はバカだ\(
+- ⚡ Fun fact: えへへ、私はバカだね～
 
 ## My GitHub Stats
 <p align="center">
