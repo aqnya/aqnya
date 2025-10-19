@@ -14,7 +14,7 @@
 - 🔭 I’m currently working on Android kernel.
 - 🌱 I’m currently learning c lang
 - 📫 How to reach me: siyueba73@gmail.com
-- 😄 Pronouns: zako~zako~
+- 😄 Pronouns: zako\~zako\~
 - ⚡ Fun fact: ...
 
 ## My GitHub Stats
