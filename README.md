@@ -1,26 +1,26 @@
 <div align="center">
-  <!-- Profile views counter with purple theme -->
-  <img src="https://komarev.com/ghpvc/?username=aqnya&color=B186D6&style=for-the-badge" alt="Profile Views" />
+  <!-- Profile views counter with a modern, clean theme -->
+  <img src="https://komarev.com/ghpvc/?username=aqnya&color=7D53A2&style=for-the-badge" alt="Profile Views" />
   
   <!-- AI-themed separator -->
   <div style="margin: 20px 0;">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=B186D6&height=120&section=header&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=30" alt="Header Wave" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=7D53A2&height=120&section=header&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=30" alt="Header Wave" width="100%" />
   </div>
 
-  <!-- GitHub Stats with purple theme -->
+  <!-- GitHub Stats with a modern, clean theme -->
   <a href="https://github.com/aqnya">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aqnya&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&bg_color=0D1117&border_color=B186D6&icon_color=B186D6&title_color=B186D6" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqnya&layout=compact&langs_count=7&theme=midnight-purple&bg_color=0D1117&border_color=B186D6&title_color=B186D6" alt="Most Used Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aqnya&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=0D1117&border_color=7D53A2&icon_color=7D53A2&title_color=7D53A2" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqnya&layout=compact&langs_count=7&theme=dracula&bg_color=0D1117&border_color=7D53A2&title_color=7D53A2" alt="Most Used Languages" />
   </a>
 
-  <!-- GitHub streak stats with purple theme -->
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=aqnya&theme=midnight-purple&background=0D1117&stroke=B186D6&ring=B186D6&fire=B186D6&currStreakLabel=B186D6&border=B186D6" alt="GitHub Streak Stats" />
+  <!-- GitHub streak stats with a modern, clean theme -->
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=aqnya&theme=dracula&background=0D1117&stroke=7D53A2&ring=7D53A2&fire=7D53A2&currStreakLabel=7D53A2&border=7D53A2" alt="GitHub Streak Stats" />
 
   <!-- AI-themed contribution graph -->
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=aqnya&bg_color=0D1117&color=B186D6&line=B186D6&point=FFFFFF&area=true&area_color=B186D6&hide_border=true" alt="Contribution Graph" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=aqnya&bg_color=0D1117&color=7D53A2&line=7D53A2&point=FFFFFF&area=true&area_color=7D53A2&hide_border=true" alt="Contribution Graph" />
 
   <!-- AI-themed separator -->
   <div style="margin: 20px 0;">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=B186D6&height=120&section=footer" alt="Footer Wave" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=7D53A2&height=120&section=footer" alt="Footer Wave" width="100%" />
   </div>
-</div> 
+</div>
