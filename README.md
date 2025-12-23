@@ -17,17 +17,6 @@
 - 😄 Pronouns: zako\~zako\~
 - ⚡ Fun fact: えへへ、私はバカだね～
 
-## My GitHub Stats
-<p align="center">
-    <a href="https://github.com/aqnya">
-        <img src="https://github-readme-stats.vercel.app/api?username=aqnya&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Aqnya's GitHub Stats" />
-    </a>
-    <br/>
-    <a href="https://github.com/aqnya">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=aqnya&theme=dracula" alt="Aqnya's GitHub Streak" />
-    </a>
-</p>
-
 ## Most Used Languages
 <p align="center">
     <a href="https://github.com/aqnya">
