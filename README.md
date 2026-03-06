@@ -13,7 +13,7 @@
 ## 👨‍💻 About Me
 - 🔭 I’m currently working on **Android kernel**.
 - 🌱 I’m currently learning **C lang**.
-- 📫 How to reach me: [Telegram](https://t.me/acutenyaa)
+- 📫 How to reach me: [Telegram](https://t.me/nekonekochai)
 - 😄 Pronouns: zako~zako~
 - ⚡ Fun fact: えへへ、私はバカだね～
 
