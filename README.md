@@ -20,10 +20,10 @@
 ## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/aqnya">
-    <img src="./profile/top-langs.svg" alt="Aqnya's Stats" />
+    <img src="./profile/stats.svg" alt="Aqnya's Stats" />
   </a>
   <br>
   <a href="https://github.com/aqnya">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqnya&layout=compact&langs_count=7&theme=dracula&hide_border=true" alt="Top Languages" />
+    <img src="./profile/top-langs.svg" alt="Top Languages" />
   </a>
 </p>
