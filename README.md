@@ -20,7 +20,7 @@
 ## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/aqnya">
-    <img src="https://github-readme-stats.vercel.app/api?username=aqnya&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="Aqnya's Stats" />
+    <img src="./profile/top-langs.svg" alt="Aqnya's Stats" />
   </a>
   <br>
   <a href="https://github.com/aqnya">
