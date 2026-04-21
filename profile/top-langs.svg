@@ -126,61 +126,14 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#555555" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C 71.12%
-      </text>
-    </g>
-  </g><g transform="translate(0, 32)">
-    <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#ec915c" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Zig 24.16%
-      </text>
-    </g>
-  </g><g transform="translate(0, 64)">
-    <g class="stagger" style="animation-delay: 750ms">
-      <circle cx="5" cy="6" r="5" fill="#427819" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Makefile 4.72%
+        C 100.00%
       </text>
     </g>
   </g>
       </g>
 
       <g transform="translate(125, -45)">
-        <svg width="350" height="350">
-       <g class="stagger" style="animation-delay: 600ms">
-        <path
-          data-testid="lang-donut"
-          size="71.12"
-          d="M 61.67559425525164 130.34486341015668 A 56.66666666666667 56.66666666666667 0 1 0 116.66666666666667 60"
-          stroke="#555555"
-          fill="none"
-          stroke-width="12">
-        </path>
-      </g>
-      
-       <g class="stagger" style="animation-delay: 700ms">
-        <path
-          data-testid="lang-donut"
-          size="24.16"
-          d="M 100.10650332939719 62.473751065510214 A 56.66666666666667 56.66666666666667 0 0 0 61.67559425525164 130.34486341015668"
-          stroke="#ec915c"
-          fill="none"
-          stroke-width="12">
-        </path>
-      </g>
-      
-       <g class="stagger" style="animation-delay: 800ms">
-        <path
-          data-testid="lang-donut"
-          size="4.72"
-          d="M 116.66666666666671 60 A 56.66666666666667 56.66666666666667 0 0 0 100.10650332939719 62.473751065510214"
-          stroke="#427819"
-          fill="none"
-          stroke-width="12">
-        </path>
-      </g>
-      </svg>
+        <svg width="350" height="350"><circle cx="116.66666666666667" cy="116.66666666666667" r="56.66666666666667" stroke="#555555" fill="none" stroke-width="12" data-testid="lang-donut" size="100"/></svg>
       </g>
     </g>
   
