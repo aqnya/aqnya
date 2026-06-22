@@ -124,16 +124,63 @@
       <g transform="translate(0, 0)">
         <g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
+      <circle cx="5" cy="6" r="5" fill="#dea584" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        Rust 84.43%
+      </text>
+    </g>
+  </g><g transform="translate(0, 32)">
+    <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#555555" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C 100.00%
+        C 7.83%
+      </text>
+    </g>
+  </g><g transform="translate(0, 64)">
+    <g class="stagger" style="animation-delay: 750ms">
+      <circle cx="5" cy="6" r="5" fill="#3572A5" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        Python 7.74%
       </text>
     </g>
   </g>
       </g>
 
       <g transform="translate(125, -45)">
-        <svg width="350" height="350"><circle cx="116.66666666666667" cy="116.66666666666667" r="56.66666666666667" stroke="#555555" fill="none" stroke-width="12" data-testid="lang-donut" size="100"/></svg>
+        <svg width="350" height="350">
+       <g class="stagger" style="animation-delay: 600ms">
+        <path
+          data-testid="lang-donut"
+          size="84.43"
+          d="M 69.65913148880318 85.02171845035514 A 56.66666666666667 56.66666666666667 0 1 0 116.66666666666667 60"
+          stroke="#dea584"
+          fill="none"
+          stroke-width="12">
+        </path>
+      </g>
+      
+       <g class="stagger" style="animation-delay: 700ms">
+        <path
+          data-testid="lang-donut"
+          size="7.83"
+          d="M 90.18211531547452 66.56996367298477 A 56.66666666666667 56.66666666666667 0 0 0 69.65913148880318 85.02171845035514"
+          stroke="#555555"
+          fill="none"
+          stroke-width="12">
+        </path>
+      </g>
+      
+       <g class="stagger" style="animation-delay: 800ms">
+        <path
+          data-testid="lang-donut"
+          size="7.74"
+          d="M 116.66666666666666 60 A 56.66666666666667 56.66666666666667 0 0 0 90.18211531547452 66.56996367298477"
+          stroke="#3572A5"
+          fill="none"
+          stroke-width="12">
+        </path>
+      </g>
+      </svg>
       </g>
     </g>
   
